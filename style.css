@@ -1,5 +1,8 @@
-#nav{
+
+
+#nav {
     display: flex;
-    gap: 200px;
+    flex-wrap: wrap;   /* allows items to move to next line */
+    gap: 20px;
     background-color: #0f1111;
 }
