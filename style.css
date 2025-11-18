@@ -1,0 +1,5 @@
+#nav{
+    display: flex;
+    gap: 200px;
+    background-color: #0f1111;
+}
